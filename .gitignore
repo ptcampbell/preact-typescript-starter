@@ -3,3 +3,4 @@ dist
 .env
 .history
 .cache
+.DS_Store
